@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/drink-bar-project/static/css/main.41d5270a.css",
-    "main.js": "/drink-bar-project/static/js/main.463876a3.js",
+    "main.css": "/drink-bar-project/static/css/main.0e8867a6.css",
+    "main.js": "/drink-bar-project/static/js/main.4b7e156b.js",
     "static/media/banner.webp": "/drink-bar-project/static/media/banner.2a4c57e3b3b28fa28270.webp",
     "static/media/Shot.jpg": "/drink-bar-project/static/media/Shot.3c1af682985330129ec3.jpg",
     "static/media/Shake.jpg": "/drink-bar-project/static/media/Shake.c4fbc151decde63b3bc0.jpg",
@@ -14,11 +14,11 @@
     "static/media/Soft_Drink.jpg": "/drink-bar-project/static/media/Soft_Drink.ded811b736b568091447.jpg",
     "static/media/logo.svg": "/drink-bar-project/static/media/logo.3e5e0ecf641985a6c5b20d672ef3c9e3.svg",
     "index.html": "/drink-bar-project/index.html",
-    "main.41d5270a.css.map": "/drink-bar-project/static/css/main.41d5270a.css.map",
-    "main.463876a3.js.map": "/drink-bar-project/static/js/main.463876a3.js.map"
+    "main.0e8867a6.css.map": "/drink-bar-project/static/css/main.0e8867a6.css.map",
+    "main.4b7e156b.js.map": "/drink-bar-project/static/js/main.4b7e156b.js.map"
   },
   "entrypoints": [
-    "static/css/main.41d5270a.css",
-    "static/js/main.463876a3.js"
+    "static/css/main.0e8867a6.css",
+    "static/js/main.4b7e156b.js"
   ]
 }
