@@ -1,7 +1,8 @@
 import { useEffect, useState } from 'react';
 import { useParams } from 'react-router-dom';
-import { filterByCategory } from '../api';
-import { CoctList } from '../Components/CoctList';
+import { filterByCategory } from '../../api';
+import { CoctList } from '../../Components/CoctList';
+import { Preloader } from '../../Components/Preloader/Preloader';
 
 export default function Category() {
     const { name } = useParams();
@@ -23,7 +24,7 @@ export default function Category() {
     return (
         <>
             <div>
-                <CoctList drinks={drinks} />
+                {!drinks.length ? <Preloader /> : <CoctList drinks={drinks} />}
             </div>
         </>
     );

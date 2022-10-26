@@ -1,6 +1,6 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import { Home } from './Pages/Home/Home';
-import Category from './Pages/Category';
+import Category from './Pages/Category/Category';
 import { Recipe } from './Pages/Recipe/Recipe';
 import { Header } from './Components/Header/Header';
 import { Footer } from './Components/Footer/Footer';
