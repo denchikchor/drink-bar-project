@@ -9,7 +9,7 @@ import SearchDrink from './Pages/SearchDrink/SearchDrink';
 
 function App() {
     return (
-        <BrowserRouter>
+        <BrowserRouter basename="/drink-bar-project">
             <Header />
             <main className="content">
                 <Routes>
