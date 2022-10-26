@@ -1,0 +1,62 @@
+.Banner{
+    padding: 200px 150px;
+    background-image: url('../../img/banner.webp');
+    background-size: cover;
+    font-size: 2.6rem;
+    font-family: Comfortaa;
+    color: #d7e0e7;
+    background-position-y: center;
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    text-align: center;
+
+
+    .line{
+        background-color: #d7e0e7;
+        height: 2px;
+        width: 50%;
+        margin: auto;
+        animation: fadeInLeft 1.5s;
+        
+        
+    }
+
+    h1{
+        margin-bottom: 20px;
+        margin-top: 20px;
+        animation: fadeIn 1s;
+
+
+       
+    }
+    h6{
+        margin-top: 20px;
+        text-transform: uppercase;
+        margin-bottom: 0px;
+        animation: fadeIn .5s;
+    }
+    
+
+    
+    @keyframes fadeIn {
+        0%{transform:translate(0px, 100px); opacity: 0;}
+        100%{transform:translate(0px, 0); opacity: 1;}
+      }
+
+      @keyframes fadeInLeft {
+        0%{transform:translate(8000px, 0px); opacity: 0;}
+        100%{transform:translate(0px, 0); opacity: 1;}
+      }
+    
+}
+
+@media screen and (max-width: 768px){
+    .Banner{
+        padding: 80px 20px;
+        font-size: 1.9rem;
+
+    }
+
+    
+}
