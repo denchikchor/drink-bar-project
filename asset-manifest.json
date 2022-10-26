@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/drink-bar-project/static/css/main.41d5270a.css",
+    "main.js": "/drink-bar-project/static/js/main.463876a3.js",
+    "static/media/banner.webp": "/drink-bar-project/static/media/banner.2a4c57e3b3b28fa28270.webp",
+    "static/media/Shot.jpg": "/drink-bar-project/static/media/Shot.3c1af682985330129ec3.jpg",
+    "static/media/Shake.jpg": "/drink-bar-project/static/media/Shake.c4fbc151decde63b3bc0.jpg",
+    "static/media/coctails.jpg": "/drink-bar-project/static/media/coctails.59979d166dec7c416582.jpg",
+    "static/media/Coffee__Tea.jpg": "/drink-bar-project/static/media/Coffee__Tea.440bed820e5f502da9a6.jpg",
+    "static/media/Homemade_Liqueur.jpg": "/drink-bar-project/static/media/Homemade_Liqueur.989e01452e06db62deda.jpg",
+    "static/media/Cocoa.jpg": "/drink-bar-project/static/media/Cocoa.fdaf64a7dd9b03d35364.jpg",
+    "static/media/Beer.jpg": "/drink-bar-project/static/media/Beer.339a91d2dc21f8a09746.jpg",
+    "static/media/Ordinary_Drink.jpg": "/drink-bar-project/static/media/Ordinary_Drink.3519a4fc9bee91027257.jpg",
+    "static/media/Soft_Drink.jpg": "/drink-bar-project/static/media/Soft_Drink.ded811b736b568091447.jpg",
+    "static/media/logo.svg": "/drink-bar-project/static/media/logo.3e5e0ecf641985a6c5b20d672ef3c9e3.svg",
+    "index.html": "/drink-bar-project/index.html",
+    "main.41d5270a.css.map": "/drink-bar-project/static/css/main.41d5270a.css.map",
+    "main.463876a3.js.map": "/drink-bar-project/static/js/main.463876a3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41d5270a.css",
+    "static/js/main.463876a3.js"
+  ]
+}
